@@ -1,6 +1,6 @@
 # Awesome Ruby Places
 
-A list of awesome companies currently using Ruby as their main backend language! 💎❤️
+A list of awesome companies currently using Ruby as one of their main backend languages! 💎❤️
 
 ## Banking
 
