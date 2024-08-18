@@ -2,9 +2,14 @@
 
 A list of awesome companies currently using Ruby as their main backend language! 💎❤️
 
+## Banking
+
+- [Monzo](https://monzo.com/) - British online bank.
+
 ## Dev Tools
 
 - [Github](https://github.com/) - The world’s leading AI-powered developer platform.
+- [Gitlab](https://gitlab.com/) - The most-comprehensive AI-powered DevSecOps platform.
 
 ## Ecommerce
 
