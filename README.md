@@ -2,11 +2,15 @@
 
 A list of awesome companies currently using Ruby as their main backend language! 💎❤️
 
+## Ecommerce
+
+- [Shopify](https://www.shopify.com/) - Making commerce better for everyone.
+
 ## Education
 
 - [InkWire](https://www.inkwire.co/) - Inkwire makes it easier to design and showcase engaging, rigorous learning.
 - [MindJoy](https://www.mindjoy.com/) - Learn and create STEM tutors and simulations with AI for curious classrooms!
 
-# Healthcare
+## Healthcare
 
 - [SARD JV](https://www.sardjv.co.uk/) - NHS workforce optimisation.
