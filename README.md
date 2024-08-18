@@ -16,7 +16,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 - [Shopify](https://www.shopify.com/) - Making commerce better for everyone.
 
 ## Education
-
+- [CreateAcademy](https://www.createacademy.com/) - Creative learning platform. Expert instruction from designers, makers, growers and chefs.
 - [InkWire](https://www.inkwire.co/) - Inkwire makes it easier to design and showcase engaging, rigorous learning.
 - [MindJoy](https://www.mindjoy.com/) - Learn and create STEM tutors and simulations with AI for curious classrooms!
 - [Zen Educate](https://zeneducate.com/) - We’ll find you your ideal classroom roles, whether you’re a Teacher or Paraprofessional.
