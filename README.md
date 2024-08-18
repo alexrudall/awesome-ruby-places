@@ -28,6 +28,10 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [Gusto](https://gusto.com/) - Hire, pay, and manage your team all in one place.
 
+## Social Enterprise
+
+- [Beam](https://beam.org) - Supporting underserved people with human-centred technology.
+
 ## Transportation
 
 - [Limebike](https://li.me/) - Ride Green.
