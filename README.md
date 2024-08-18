@@ -19,6 +19,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [InkWire](https://www.inkwire.co/) - Inkwire makes it easier to design and showcase engaging, rigorous learning.
 - [MindJoy](https://www.mindjoy.com/) - Learn and create STEM tutors and simulations with AI for curious classrooms!
+- [Zen Educate](https://zeneducate.com/) - We’ll find you your ideal classroom roles, whether you’re a Teacher or Paraprofessional.
 
 ## Healthcare
 
