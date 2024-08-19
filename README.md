@@ -2,6 +2,10 @@
 
 A list of awesome companies currently using Ruby as one of their main backend languages! 💎❤️
 
+## Accelerators
+
+- [Y Combinator](https://ycombinator.com) - Technology startup accelerator and venture capital firm.
+
 ## Banking
 
 - [Monzo](https://monzo.com/) - British online bank.
@@ -16,6 +20,8 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 ## Delivery
 
+- [Deliveroo](https://deliveroo.com/) - Deliver your takeouts or essential groceries from the best-rated local partners straight to your door.
+- [Doordash](https://doordash.com/) - Delivery & takeout from the best local restaurants. 
 - [Instacart](https://instacart.com) - Grocery Delivery or Pickup from Local Stores Near You.
 
 ## Dev Tools
@@ -45,9 +51,17 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [Gusto](https://gusto.com/) - Hire, pay, and manage your team all in one place.
 
+## Logistics
+
+- [Flexport](https://flexport.com) - The platform that coordinates global logistics from factory to customer door.
+
 ## Networking
 
 - [Cisco Meraki](https://meraki.cisco.com/) - The leader in cloud controlled Wi-Fi, routing, and security.
+
+## Payments
+
+- [Stripe](https://stripe.com) - Financial infrastructure to grow your revenue.
 
 ## Personal Finance
 
@@ -58,6 +72,10 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [37signals](https://37signals.com) - Creators of Basecamp, HEY, Campfire and Writebook
 
+## Rental Property
+
+- [AirBnB](https://airbnb.com/) - Homestays and experiences in various countries and regions.
+
 ## Social Enterprise
 
 - [Beam](https://beam.org) - Supporting underserved people with human-centred technology.
@@ -65,3 +83,4 @@ A list of awesome companies currently using Ruby as one of their main backend la
 ## Transportation
 
 - [Limebike](https://li.me/) - Ride Green.
+
