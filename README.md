@@ -30,6 +30,10 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [Gusto](https://gusto.com/) - Hire, pay, and manage your team all in one place.
 
+## Project Management
+
+- [37signals](https://37signals.com) - Creators of Basecamp, HEY, Campfire and Writebook
+
 ## Social Enterprise
 
 - [Beam](https://beam.org) - Supporting underserved people with human-centred technology.
