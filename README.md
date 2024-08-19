@@ -6,6 +6,18 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [Monzo](https://monzo.com/) - British online bank.
 
+## Crypto
+
+- [Coinbase](https://coinbase.com/) - Platform for buying, selling and trading crypto.
+
+## CRM
+
+- [Intercom](https://intercom.com/) - The complete AI-first customer service solution.
+
+## Delivery
+
+- [Instacart](https://instacart.com) - Grocery Delivery or Pickup from Local Stores Near You.
+
 ## Dev Tools
 
 - [Github](https://github.com/) - The world’s leading AI-powered developer platform.
@@ -14,7 +26,8 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 ## Ecommerce
 
-- [Shopify](https://www.shopify.com/) - Making commerce better for everyone.
+- [Shopify](https://shopify.com/) - Making commerce better for everyone.
+- [Whop](https://whop.com) - The destination to start a business, learn new skills, and build a network.
 
 ## Education
 - [CodeCrafters](https://codecrafters.io) - Learn to build complex software.
@@ -25,11 +38,20 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 ## Healthcare
 
+- [Pharmaseal](https://www.pharmaseal.co/) - Helping companies reduce risk through smarter management of clinical trials.
 - [SARD JV](https://www.sardjv.co.uk/) - NHS workforce optimisation.
 
 ## HR
 
 - [Gusto](https://gusto.com/) - Hire, pay, and manage your team all in one place.
+
+## Networking
+
+- [Cisco Meraki](https://meraki.cisco.com/) - The leader in cloud controlled Wi-Fi, routing, and security.
+
+## Personal Finance
+
+- [Cleo](https://web.meetcleo.com/) - The AI assistant that's helped 6 million people avoid their overdraft, build credit, and budget better.
 
 ## Project Management
 
