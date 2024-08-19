@@ -52,6 +52,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 ## Personal Finance
 
 - [Cleo](https://web.meetcleo.com/) - The AI assistant that's helped 6 million people avoid their overdraft, build credit, and budget better.
+- [Maybe](https://maybe.co/) - Open-source OS for your personal finances.
 
 ## Project Management
 
