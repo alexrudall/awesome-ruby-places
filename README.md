@@ -10,7 +10,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [Monzo](https://monzo.com/) - British online bank.
 
-## Creators economy
+## Community Tools
 
 - [Circle.so](https://circle.so/) - The all-in-one community platform for creators and brands.
 
