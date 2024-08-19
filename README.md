@@ -2,6 +2,8 @@
 
 A list of awesome companies currently using Ruby as one of their main backend languages! 💎❤️
 
+(All have staff and hire at least sometimes)
+
 ## Accelerators
 
 - [Y Combinator](https://ycombinator.com) - Technology startup accelerator and venture capital firm.
@@ -25,6 +27,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 ## Delivery
 
+- [Bloom & Wild](https://www.bloomandwild.com/) - Make missed flower deliveries a problem of the past.
 - [Deliveroo](https://deliveroo.com/) - Deliver takeouts or essential groceries straight to your door.
 - [Doordash](https://doordash.com/) - Delivery & takeout from the best local restaurants. 
 - [Instacart](https://instacart.com) - Grocery Delivery or Pickup from Local Stores Near You.
