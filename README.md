@@ -10,6 +10,10 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [Monzo](https://monzo.com/) - British online bank.
 
+## Creators economy
+
+- [Circle.so](https://circle.so/) - The all-in-one community platform for creators and brands.
+
 ## Crypto
 
 - [Coinbase](https://coinbase.com/) - Platform for buying, selling and trading crypto.
@@ -41,6 +45,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 - [InkWire](https://www.inkwire.co/) - Inkwire makes it easier to design and showcase engaging, rigorous learning.
 - [MindJoy](https://www.mindjoy.com/) - Learn and create STEM tutors and simulations with AI for curious classrooms!
 - [Zen Educate](https://zeneducate.com/) - We’ll find you your ideal classroom roles, whether you’re a Teacher or Paraprofessional.
+- [Profe.Social](https://profe.social/) - Marketplace and social network for spanish speaking K12 Teachers.
 
 ## Healthcare
 
@@ -80,7 +85,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [Beam](https://beam.org) - Supporting underserved people with human-centred technology.
 
-## Transportation
+## Transport
 
 - [Limebike](https://li.me/) - Ride Green.
-
+- [Recorrido.cl](https://recorrido.cl/) - Bus ticket marketplace (aggregator) for Latin America.
