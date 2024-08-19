@@ -63,6 +63,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 ## Healthcare
 
+- [Doctolib](https://www.doctolib.fr/) - Empowering patients to manage their health and giving healthcare professionals more quality clinical time.
 - [Pharmaseal](https://www.pharmaseal.co/) - Helping companies reduce risk through smarter management of clinical trials.
 - [SARD JV](https://www.sardjv.co.uk/) - NHS workforce optimisation.
 
