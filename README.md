@@ -78,6 +78,10 @@ A list of awesome companies currently using Ruby as one of their main backend la
 - [Cleo](https://web.meetcleo.com/) - The AI assistant that's helped 6 million people avoid their overdraft, build credit, and budget better.
 - [Maybe](https://maybe.co/) - Open-source OS for your personal finances.
 
+## Private Members' Clubs
+
+- [Soho House](https://sohohouse.com/) - A club for creatives.
+
 ## Project Management
 
 - [37signals](https://37signals.com) - Creators of Basecamp, HEY, Campfire and Writebook
