@@ -31,6 +31,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 - [Deliveroo](https://deliveroo.com/) - Deliver takeouts or essential groceries straight to your door.
 - [Doordash](https://doordash.com/) - Delivery & takeout from the best local restaurants. 
 - [Instacart](https://instacart.com) - Grocery Delivery or Pickup from Local Stores Near You.
+- [Mindful Chef](https://www.mindfulchef.com/) - Healthy eating, made easy!
 
 ## Dev Tools
 
