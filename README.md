@@ -8,6 +8,10 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [Y Combinator](https://ycombinator.com) - Technology startup accelerator and venture capital firm.
 
+## Agencies
+
+- [ThoughtBot](https://thoughtbot.com/) - Your expert partner for strategy, design, product management, and development.
+
 ## Banking
 
 - [Monzo](https://monzo.com/) - British online bank.
