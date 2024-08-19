@@ -10,6 +10,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [Github](https://github.com/) - The world’s leading AI-powered developer platform.
 - [Gitlab](https://gitlab.com/) - The most-comprehensive AI-powered DevSecOps platform.
+- [Keygen](https://keygen.sh/) - A fair source software licensing and distribution API.
 
 ## Ecommerce
 
