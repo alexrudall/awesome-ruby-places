@@ -96,6 +96,10 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [37signals](https://37signals.com) - Creators of Basecamp, HEY, Campfire and Writebook
 
+## Reading Tools
+
+- [StoryGraph](https://www.thestorygraph.com/) - Track your reading and choose your next book based on your mood and favourite topics and themes.
+
 ## Rental Property
 
 - [AirBnB](https://airbnb.com/) - Homestays and experiences in various countries and regions.
