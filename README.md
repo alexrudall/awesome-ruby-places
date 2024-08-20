@@ -26,6 +26,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 ## CRM
 
+- [Chatwoot](https://chatwoot.com) - Open-source omni-channel customer communication platforms.
 - [Intercom](https://intercom.com/) - The complete AI-first customer service solution.
 - [Zendesk](https://zendesk.com/) - Faster, more personalised experiences using AI trained in the art of customer service.
 
