@@ -59,6 +59,10 @@ A list of awesome companies currently using Ruby as one of their main backend la
 - [Zen Educate](https://zeneducate.com/) - We’ll find you your ideal classroom roles, whether you’re a Teacher or Paraprofessional.
 - [Profe.Social](https://profe.social/) - Marketplace and social network for spanish speaking K12 Teachers.
 
+## FAANG
+
+ - [Apple](https://apple.com) - Mac, iPhone, etc.
+
 ## Geocoding
 
 - [OpenCage](https://opencagedata.com/) - Convert coordinates to and from places.
