@@ -101,6 +101,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 ## Project Management
 
 - [37signals](https://37signals.com) - Creators of Basecamp, HEY, Campfire and Writebook
+- [GoScope.AI](https://www.goscope.ai/) - Streamline Your Product Vision.
 
 ## Construction & Real estate
 
