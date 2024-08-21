@@ -98,6 +98,10 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [37signals](https://37signals.com) - Creators of Basecamp, HEY, Campfire and Writebook
 
+## Construction & Real estate
+
+- [Mestamaster](http://mestamaster.com/) - Takt Time project management tools for construction industry (building and renovation)
+
 ## Reading Tools
 
 - [StoryGraph](https://www.thestorygraph.com/) - Track your reading and choose your next book based on your mood and favourite topics and themes.
