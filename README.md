@@ -46,6 +46,10 @@ A list of awesome companies currently using Ruby as one of their main backend la
 - [Gitlab](https://gitlab.com/) - The most-comprehensive AI-powered DevSecOps platform.
 - [Keygen](https://keygen.sh/) - A fair source software licensing and distribution API.
 
+## Document Storage
+
+- [Dropbox](https://www.dropbox.com) - Dropbox delivers tools that help you move your work forward faster, keep it safe, and let you collaborate with ease.
+
 ## Ecommerce
 
 - [Shopify](https://shopify.com/) - Making commerce better for everyone.
@@ -63,10 +67,6 @@ A list of awesome companies currently using Ruby as one of their main backend la
 ## FAANG
 
  - [Apple](https://apple.com) - Mac, iPhone, etc.
-
-## File Hosting
-
-- [Dropbox](https://dropbox.com) - Tools that help you move your work forward faster, keep it safe, and let you collaborate with ease.
 
 ## Geocoding
 
@@ -128,8 +128,3 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [Limebike](https://li.me/) - Ride Green.
 - [Recorrido.cl](https://recorrido.cl/) - Bus ticket marketplace (aggregator) for Latin America.
-
-## Document Storage
-
-- [Dropbox](https://www.dropbox.com) - Dropbox delivers tools that help you move your work forward faster, keep it safe, and let you collaborate with ease.
-
