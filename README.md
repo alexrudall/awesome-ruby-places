@@ -24,6 +24,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 ## Crypto
 
 - [Coinbase](https://coinbase.com/) - Platform for buying, selling and trading crypto.
+- [CoinGecko](https://coingecko.com/) - Provides a fundamental analysis of the crypto market.
 
 ## CRM
 
