@@ -127,3 +127,8 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [Limebike](https://li.me/) - Ride Green.
 - [Recorrido.cl](https://recorrido.cl/) - Bus ticket marketplace (aggregator) for Latin America.
+
+## Document Storage
+
+- [Dropbox](https://www.dropbox.com) - Dropbox delivers tools that help you move your work forward faster, keep it safe, and let you collaborate with ease.
+
