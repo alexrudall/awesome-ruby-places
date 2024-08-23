@@ -63,6 +63,10 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
  - [Apple](https://apple.com) - Mac, iPhone, etc.
 
+## File Hosting
+
+- [Dropbox](https://dropbox.com) - Tools that help you move your work forward faster, keep it safe, and let you collaborate with ease.
+
 ## Geocoding
 
 - [OpenCage](https://opencagedata.com/) - Convert coordinates to and from places.
