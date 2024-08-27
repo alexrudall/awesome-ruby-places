@@ -12,6 +12,8 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [Eagerworks](https://eagerworks.com/) - Innovation agency for all your development, design and AI needs.
 - [ThoughtBot](https://thoughtbot.com/) - Your expert partner for strategy, design, product management, and development.
+- [Puzzle ITC](https://www.puzzle.ch/) - Swiss agency
+- [Renuo](https://www.renuo.ch/) - Swiss agency
 
 ## Banking
 
