@@ -91,6 +91,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 ## Networking
 
 - [Cisco Meraki](https://meraki.cisco.com/) - The leader in cloud controlled Wi-Fi, routing, and security.
+- [Swisscom](https://www.swisscom.ch) - A major Swiss ISP. Using ruby for internal network management related software.
 
 ## Payments
 
