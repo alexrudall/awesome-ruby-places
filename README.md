@@ -36,7 +36,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [MindJoy](https://www.mindjoy.com/) | Learn and create STEM tutors and simulations with AI for curious classrooms! | | |
 | | [Zen Educate](https://zeneducate.com/) | We'll find you your ideal classroom roles, whether you're a Teacher or Paraprofessional. | | |
 | | [Profe.Social](https://profe.social/) | Marketplace and social network for spanish speaking K12 Teachers. | | |
-| FAANG | [Apple](https://apple.com) | Mac, iPhone, etc. | | |
+| FAANG | [Apple](https://apple.com) | Mac, iPhone, etc. | [💻](https://apple.com/careers) | [August 2024](https://www.adzuna.co.uk/jobs/details/4429845442) |
 | Geocoding | [OpenCage](https://opencagedata.com/) | Convert coordinates to and from places. | | |
 | Healthcare | [Doctolib](https://www.doctolib.fr/) | Empowering patients to manage their health and giving healthcare professionals more quality clinical time. | | |
 | | [Pharmaseal](https://www.pharmaseal.co/) | Helping companies reduce risk through smarter management of clinical trials. | | |
