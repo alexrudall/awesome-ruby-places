@@ -103,6 +103,10 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [Soho House](https://sohohouse.com/) - A club for creatives.
 
+## Procurement
+
+- [Coupa](https://coupa.com) - Enterprise procurement and business spend management.
+
 ## Project Management
 
 - [37signals](https://37signals.com) - Creators of Basecamp, HEY, Campfire and Writebook
