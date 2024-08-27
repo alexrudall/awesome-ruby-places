@@ -88,6 +88,10 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [Flexport](https://flexport.com) - The platform that coordinates global logistics from factory to customer door.
 
+## Maps
+
+- [Openstreetmap](https://www.openstreetmap.org) - The website and API is mostly run on rails. The project is [open source](https://github.com/openstreetmap/openstreetmap-website).
+
 ## Networking
 
 - [Cisco Meraki](https://meraki.cisco.com/) - The leader in cloud controlled Wi-Fi, routing, and security.
