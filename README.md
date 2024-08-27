@@ -4,7 +4,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 (All have staff and hire at least sometimes)
 
-| Category | Company | Description | Careers | Proof | Verified |
+| Category | Company | Description | Careers | Proof | Checked |
 |----------|---------|-------------|--------------|---------------|---------------|
 | Accelerators | [Y Combinator](https://ycombinator.com) | Technology startup accelerator and venture capital firm. | | | |
 | Agencies | [Eagerworks](https://eagerworks.com/) | Innovation agency for all your development, design and AI needs. | | | |
