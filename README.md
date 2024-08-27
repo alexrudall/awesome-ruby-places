@@ -6,7 +6,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 | Category | Company | Description | Careers | Proof | Checked |
 |----------|---------|-------------|--------------|---------------|---------------|
-| Accelerators | [Y Combinator](https://ycombinator.com) | Technology startup accelerator and venture capital firm. | [💻](https://www.ycombinator.com/careers) | | |
+| Accelerators | [Y Combinator](https://ycombinator.com) | Technology startup accelerator and venture capital firm. | [💻](https://www.ycombinator.com/careers) | [✅](https://www.ycombinator.com/careers?ashby_jid=bbf8f36d-60bf-4168-b2b8-fac91bc4534c) | August 2024 |
 | Agencies | [Eagerworks](https://eagerworks.com/) | Innovation agency for all your development, design and AI needs. | | | |
 | | [ThoughtBot](https://thoughtbot.com/) | Your expert partner for strategy, design, product management, and development. | | | |
 | | [Puzzle ITC](https://www.puzzle.ch/) | Swiss agency | | | |
