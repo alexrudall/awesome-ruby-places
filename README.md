@@ -8,8 +8,8 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Category | Company | Description | Careers | Verification |
 |----------|---------|-------------|---------|-------|
 | Accelerators | [Y Combinator](https://ycombinator.com) | Technology startup accelerator and venture capital firm. | [💻](https://www.ycombinator.com/careers) | [Aug 2024](https://www.ycombinator.com/careers?ashby_jid=bbf8f36d-60bf-4168-b2b8-fac91bc4534c) |
-| Agencies | [Eagerworks](https://eagerworks.com/) | Innovation agency for all your development, design and AI needs. | [💻](https://eagerworks.com/careers#open-positions) | [Aug 2024](https://eagerworks.com/careers/sr-ror-developer) |
-| | [ThoughtBot](https://thoughtbot.com/) | Your expert partner for strategy, design, product management, and development. | [💻](https://thoughtbot.com/jobs#jobs) | [Aug 2024](https://thoughtbot.com/blog/this-week-in-open-source-june-2024) |
+| Agencies | [Eagerworks](https://eagerworks.com/) | Development, design and AI needs. | [💻](https://eagerworks.com/careers#open-positions) | [Aug 2024](https://eagerworks.com/careers/sr-ror-developer) |
+| | [ThoughtBot](https://thoughtbot.com/) | Strategy, design, product management, and development. | [💻](https://thoughtbot.com/jobs#jobs) | [Aug 2024](https://thoughtbot.com/blog/this-week-in-open-source-june-2024) |
 | | [Puzzle ITC](https://www.puzzle.ch/) | Swiss agency | [💻](https://www.puzzle.ch/stellen) | [Aug 2024](https://puzzle.github.io/) |
 | | [Renuo](https://www.renuo.ch/) | Swiss agency | [💻](https://www.renuo.ch/jobs) | [Aug 2024](https://www.renuo.ch/jobs/senior-software-engineer-angular) |
 | Community Tools | [Circle.so](https://circle.so/) | The all-in-one community platform for creators and brands. | | |
@@ -36,7 +36,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [MindJoy](https://www.mindjoy.com/) | Learn and create STEM tutors and simulations with AI for curious classrooms! | | |
 | | [Zen Educate](https://zeneducate.com/) | We'll find you your ideal classroom roles, whether you're a Teacher or Paraprofessional. | | |
 | | [Profe.Social](https://profe.social/) | Marketplace and social network for spanish speaking K12 Teachers. | | |
-| FAANG | [Apple](https://apple.com) | Mac, iPhone, etc. | [💻](https://apple.com/careers) | [August 2024](https://www.adzuna.co.uk/jobs/details/4429845442) |
+| FAANG | [Apple](https://apple.com) | Mac, iPhone, etc. | [💻](https://apple.com/careers) | [Aug 2024](https://www.adzuna.co.uk/jobs/details/4429845442) |
 | Geocoding | [OpenCage](https://opencagedata.com/) | Convert coordinates to and from places. | | |
 | Healthcare | [Doctolib](https://www.doctolib.fr/) | Empowering patients to manage their health and giving healthcare professionals more quality clinical time. | | |
 | | [Pharmaseal](https://www.pharmaseal.co/) | Helping companies reduce risk through smarter management of clinical trials. | | |
