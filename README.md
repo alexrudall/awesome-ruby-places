@@ -7,11 +7,11 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 | Category | Company | Description | Careers | Verification |
 |----------|---------|-------------|---------|-------|
-| Accelerators | [Y Combinator](https://ycombinator.com) | Technology startup accelerator and venture capital firm. | [💻](https://www.ycombinator.com/careers) | [August 2024](https://www.ycombinator.com/careers?ashby_jid=bbf8f36d-60bf-4168-b2b8-fac91bc4534c) |
-| Agencies | [Eagerworks](https://eagerworks.com/) | Innovation agency for all your development, design and AI needs. | [💻](https://eagerworks.com/careers#open-positions) | [August 2024](https://eagerworks.com/careers/sr-ror-developer) |
-| | [ThoughtBot](https://thoughtbot.com/) | Your expert partner for strategy, design, product management, and development. | [💻](https://thoughtbot.com/jobs#jobs) | [August 2024](https://thoughtbot.com/blog/this-week-in-open-source-june-2024) |
-| | [Puzzle ITC](https://www.puzzle.ch/) | Swiss agency | [💻](https://www.puzzle.ch/stellen) | [August 2024](https://puzzle.github.io/) |
-| | [Renuo](https://www.renuo.ch/) | Swiss agency | [💻](https://www.renuo.ch/jobs) | [August 2024](https://www.renuo.ch/jobs/senior-software-engineer-angular) |
+| Accelerators | [Y Combinator](https://ycombinator.com) | Technology startup accelerator and venture capital firm. | [💻](https://www.ycombinator.com/careers) | [Aug 2024](https://www.ycombinator.com/careers?ashby_jid=bbf8f36d-60bf-4168-b2b8-fac91bc4534c) |
+| Agencies | [Eagerworks](https://eagerworks.com/) | Innovation agency for all your development, design and AI needs. | [💻](https://eagerworks.com/careers#open-positions) | [Aug 2024](https://eagerworks.com/careers/sr-ror-developer) |
+| | [ThoughtBot](https://thoughtbot.com/) | Your expert partner for strategy, design, product management, and development. | [💻](https://thoughtbot.com/jobs#jobs) | [Aug 2024](https://thoughtbot.com/blog/this-week-in-open-source-june-2024) |
+| | [Puzzle ITC](https://www.puzzle.ch/) | Swiss agency | [💻](https://www.puzzle.ch/stellen) | [Aug 2024](https://puzzle.github.io/) |
+| | [Renuo](https://www.renuo.ch/) | Swiss agency | [💻](https://www.renuo.ch/jobs) | [Aug 2024](https://www.renuo.ch/jobs/senior-software-engineer-angular) |
 | Community Tools | [Circle.so](https://circle.so/) | The all-in-one community platform for creators and brands. | | |
 | Crypto | [Coinbase](https://coinbase.com/) | Platform for buying, selling and trading crypto. | | |
 | | [CoinGecko](https://coingecko.com/) | Provides a fundamental analysis of the crypto market. | | |
@@ -57,7 +57,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Construction & Real estate | [Mestamaster](http://mestamaster.com/) | Takt Time project management tools for construction industry (building and renovation) | | |
 | Reading Tools | [StoryGraph](https://www.thestorygraph.com/) | Track your reading and choose your next book based on your mood and favourite topics and themes. | | |
 | Rental Property | [AirBnB](https://airbnb.com/) | Homestays and experiences in various countries and regions. | | |
-| Streaming Services | [Rakuten TV](https://www.rakuten.tv/) | Leading streaming platform, available in 42 countries across Europe. | [💻](https://rakuten.wd1.myworkdayjobs.com/RakutenTV/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | [August 2024](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenTV/job/Barcelona-Spain/Backend-Ruby-Engineer_1022989?clientRequestID=39d41571bcd34c8ba4d5ceb6201b2296) |
+| Streaming Services | [Rakuten TV](https://www.rakuten.tv/) | Leading streaming platform, available in 42 countries across Europe. | [💻](https://rakuten.wd1.myworkdayjobs.com/RakutenTV/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | [Aug 2024](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenTV/job/Barcelona-Spain/Backend-Ruby-Engineer_1022989?clientRequestID=39d41571bcd34c8ba4d5ceb6201b2296) |
 | Social Enterprise | [Beam](https://beam.org) | Supporting underserved people with human-centred technology. | | |
 | Transport | [Limebike](https://li.me/) | Ride Green. | | |
 | | [Recorrido.cl](https://recorrido.cl/) | Bus ticket marketplace (aggregator) for Latin America. | | |
