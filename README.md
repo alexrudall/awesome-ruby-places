@@ -11,8 +11,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Agencies | [Eagerworks](https://eagerworks.com/) | Innovation agency for all your development, design and AI needs. | [💻](https://eagerworks.com/careers#open-positions) | [August 2024](https://eagerworks.com/careers/sr-ror-developer) |
 | | [ThoughtBot](https://thoughtbot.com/) | Your expert partner for strategy, design, product management, and development. | [💻](https://thoughtbot.com/jobs#jobs) | [August 2024](https://thoughtbot.com/blog/this-week-in-open-source-june-2024) |
 | | [Puzzle ITC](https://www.puzzle.ch/) | Swiss agency | [💻](https://www.puzzle.ch/stellen) | [August 2024](https://puzzle.github.io/) |
-| | [Renuo](https://www.renuo.ch/) | Swiss agency | | |
-| Banking | [Monzo](https://monzo.com/) | British online bank. | | |
+| | [Renuo](https://www.renuo.ch/) | Swiss agency | [💻](https://www.renuo.ch/jobs) | [August 2024](https://www.renuo.ch/jobs/senior-software-engineer-angular) |
 | Community Tools | [Circle.so](https://circle.so/) | The all-in-one community platform for creators and brands. | | |
 | Crypto | [Coinbase](https://coinbase.com/) | Platform for buying, selling and trading crypto. | | |
 | | [CoinGecko](https://coingecko.com/) | Provides a fundamental analysis of the crypto market. | | |
