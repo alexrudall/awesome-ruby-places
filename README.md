@@ -57,7 +57,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Construction & Real estate | [Mestamaster](http://mestamaster.com/) | Takt Time project management tools for construction industry (building and renovation) | | |
 | Reading Tools | [StoryGraph](https://www.thestorygraph.com/) | Track your reading and choose your next book based on your mood and favourite topics and themes. | | |
 | Rental Property | [AirBnB](https://airbnb.com/) | Homestays and experiences in various countries and regions. | | |
-| Streaming Services | [Rakuten TV](https://www.rakuten.tv/) | Leading streaming platform, available in 42 countries across Europe. | [💻](https://rakuten.wd1.myworkdayjobs.com/RakutenTV/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | [Aug 2024](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenTV/job/Barcelona-Spain/Backend-Ruby-Engineer_1022989?clientRequestID=39d41571bcd34c8ba4d5ceb6201b2296) |
+| Streaming Services | [Rakuten TV](https://www.rakuten.tv/) | Streaming platform, available in 42 countries across Europe. | [💻](https://rakuten.wd1.myworkdayjobs.com/RakutenTV/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | [Aug 2024](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenTV/job/Barcelona-Spain/Backend-Ruby-Engineer_1022989?clientRequestID=39d41571bcd34c8ba4d5ceb6201b2296) |
 | Social Enterprise | [Beam](https://beam.org) | Supporting underserved people with human-centred technology. | | |
 | Transport | [Limebike](https://li.me/) | Ride Green. | | |
 | | [Recorrido.cl](https://recorrido.cl/) | Bus ticket marketplace (aggregator) for Latin America. | | |
