@@ -3,14 +3,14 @@
 A list of awesome companies currently using Ruby as one of their main backend languages! 💎❤️
 
 - All have staff and hire at least sometimes
-- Verification is a link to a job, blog post, tweet etc. that confirms that the company uses Ruby or Rails
+- Verification is a link to a job, blog post, tweet etc. that confirms that the company uses Ruby or Rails, and the date the link was last checked.
 
 | Category | Company | Description | Careers | Verification |
 |----------|---------|-------------|---------|-------|
 | Accelerators | [Y Combinator](https://ycombinator.com) | Technology startup accelerator and venture capital firm. | [💻](https://www.ycombinator.com/careers) | [August 2024](https://www.ycombinator.com/careers?ashby_jid=bbf8f36d-60bf-4168-b2b8-fac91bc4534c) |
 | Agencies | [Eagerworks](https://eagerworks.com/) | Innovation agency for all your development, design and AI needs. | [💻](https://eagerworks.com/careers#open-positions) | [August 2024](https://eagerworks.com/careers/sr-ror-developer) |
 | | [ThoughtBot](https://thoughtbot.com/) | Your expert partner for strategy, design, product management, and development. | [💻](https://thoughtbot.com/jobs#jobs) | [August 2024](https://thoughtbot.com/blog/this-week-in-open-source-june-2024) |
-| | [Puzzle ITC](https://www.puzzle.ch/) | Swiss agency | | |
+| | [Puzzle ITC](https://www.puzzle.ch/) | Swiss agency | [💻](https://www.puzzle.ch/stellen) | [August 2024](https://puzzle.github.io/) |
 | | [Renuo](https://www.renuo.ch/) | Swiss agency | | |
 | Banking | [Monzo](https://monzo.com/) | British online bank. | | |
 | Community Tools | [Circle.so](https://circle.so/) | The all-in-one community platform for creators and brands. | | |
