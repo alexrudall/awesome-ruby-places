@@ -57,6 +57,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Construction & Real estate | [Mestamaster](http://mestamaster.com/) | Takt Time project management tools for construction industry (building and renovation) | | |
 | Reading Tools | [StoryGraph](https://www.thestorygraph.com/) | Track your reading and choose your next book based on your mood and favourite topics and themes. | | |
 | Rental Property | [AirBnB](https://airbnb.com/) | Homestays and experiences in various countries and regions. | | |
+| Streaming Services | [Rakuten TV](https://www.rakuten.tv/) | Leading streaming platform, available in 42 countries across Europe. | | |
 | Social Enterprise | [Beam](https://beam.org) | Supporting underserved people with human-centred technology. | | |
 | Transport | [Limebike](https://li.me/) | Ride Green. | | |
 | | [Recorrido.cl](https://recorrido.cl/) | Bus ticket marketplace (aggregator) for Latin America. | | |
