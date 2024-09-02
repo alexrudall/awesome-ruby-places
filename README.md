@@ -30,7 +30,8 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Document Storage | [Dropbox](https://www.dropbox.com) | Dropbox delivers tools that help you move your work forward faster, keep it safe, and let you collaborate with ease. | | |
 | Ecommerce | [Shopify](https://shopify.com/) | Making commerce better for everyone. | | |
 | | [Whop](https://whop.com) | The destination to start a business, learn new skills, and build a network. | | |
-| Education | [CodeCrafters](https://codecrafters.io) | Learn to build complex software. | | |
+| Education | [AgendaEdu](https://www.agendaedu.com/) | Simplifies education communication, engagement and payments. | | |
+| | [CodeCrafters](https://codecrafters.io) | Learn to build complex software. | | |
 | | [CreateAcademy](https://www.createacademy.com/) | Creative learning platform. Expert instruction from designers, makers, growers and chefs. | | |
 | | [InkWire](https://www.inkwire.co/) | Inkwire makes it easier to design and showcase engaging, rigorous learning. | | |
 | | [Learnetto](https://learnetto.com) | Learnetto is a place to learn Ruby and Rails with courses and tutorials. | | |
