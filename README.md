@@ -64,3 +64,4 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Transport | [Limebike](https://li.me/) | Ride Green. | | |
 | | [Recorrido.cl](https://recorrido.cl/) | Bus ticket marketplace (aggregator) for Latin America. | | |
 | HR | [Factorial](https://factorialhr.com/) | HR Software to Empower Your Team | [💻](https://careers.factorialhr.com/) | | 
+| Local Community | [Karrot](https://karrotmarket.com) | A better way to buy and sell, and connect with your community as you do it. | [💻](https://team.daangn.com/jobs/) | [Aug 2024](https://team.daangn.com/jobs/4300797003/) |
