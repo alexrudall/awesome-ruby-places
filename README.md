@@ -44,6 +44,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [Pharmaseal](https://www.pharmaseal.co/) | Helping companies reduce risk through smarter management of clinical trials. | | |
 | | [SARD JV](https://www.sardjv.co.uk/) | NHS workforce optimisation. | | |
 | HR | [Gusto](https://gusto.com/) | Hire, pay, and manage your team all in one place. | | |
+| | [Factorial](https://factorialhr.com/) | HR Software to Empower Your Team | [💻](https://careers.factorialhr.com/) | | 
 | Logistics | [Flexport](https://flexport.com) | The platform that coordinates global logistics from factory to customer door. | | |
 | Maps | [Openstreetmap](https://www.openstreetmap.org) | The website and API is mostly run on rails. The project is [open source](https://github.com/openstreetmap/openstreetmap-website). | | |
 | Networking | [Cisco Meraki](https://meraki.cisco.com/) | The leader in cloud controlled Wi-Fi, routing, and security. | | |
@@ -63,5 +64,4 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Social Enterprise | [Beam](https://beam.org) | Supporting underserved people with human-centred technology. | | |
 | Transport | [Limebike](https://li.me/) | Ride Green. | | |
 | | [Recorrido.cl](https://recorrido.cl/) | Bus ticket marketplace (aggregator) for Latin America. | | |
-| HR | [Factorial](https://factorialhr.com/) | HR Software to Empower Your Team | [💻](https://careers.factorialhr.com/) | | 
 | Local Community | [Karrot](https://karrotmarket.com) | A better way to buy and sell, and connect with your community as you do it. | [💻](https://team.daangn.com/jobs/) | [Aug 2024](https://team.daangn.com/jobs/4300797003/) |
