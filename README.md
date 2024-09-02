@@ -63,3 +63,4 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Social Enterprise | [Beam](https://beam.org) | Supporting underserved people with human-centred technology. | | |
 | Transport | [Limebike](https://li.me/) | Ride Green. | | |
 | | [Recorrido.cl](https://recorrido.cl/) | Bus ticket marketplace (aggregator) for Latin America. | | |
+| HR | [Factorial](https://factorialhr.com/) | HR Software to Empower Your Team | [💻](https://careers.factorialhr.com/) | | 
