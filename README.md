@@ -5,7 +5,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 - All have staff and hire at least sometimes
 - Verification is a link to a job, blog post, tweet etc. that confirms that the company uses Ruby or Rails, and the date the link was last checked.
 
-| Category | Company | Description | Careers | Verification |
+| Category | Company | Description | Careers | Verified |
 |----------|---------|-------------|---------|-------|
 | Accelerators | [Y Combinator](https://ycombinator.com) | Technology startup accelerator and venture capital firm. | [💻](https://www.ycombinator.com/careers) | [Aug 2024](https://www.ycombinator.com/careers?ashby_jid=bbf8f36d-60bf-4168-b2b8-fac91bc4534c) |
 | Agencies | [Eagerworks](https://eagerworks.com/) | Development, design and AI needs. | [💻](https://eagerworks.com/careers#open-positions) | [Aug 2024](https://eagerworks.com/careers/sr-ror-developer) |
