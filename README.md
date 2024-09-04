@@ -9,10 +9,11 @@ A list of awesome companies currently using Ruby as one of their main backend la
 |----------|---------|-------------|---------|-------|
 | Accelerators | [Y Combinator](https://ycombinator.com) | Technology startup accelerator and venture capital firm. | [💻](https://www.ycombinator.com/careers) | [Aug 2024](https://www.ycombinator.com/careers?ashby_jid=bbf8f36d-60bf-4168-b2b8-fac91bc4534c) |
 | Agencies | [Eagerworks](https://eagerworks.com/) | Development, design and AI needs. | [💻](https://eagerworks.com/careers#open-positions) | [Aug 2024](https://eagerworks.com/careers/sr-ror-developer) |
-| | [ThoughtBot](https://thoughtbot.com/) | Strategy, design, product management, and development. | [💻](https://thoughtbot.com/jobs#jobs) | [Aug 2024](https://thoughtbot.com/blog/this-week-in-open-source-june-2024) |
+| | [thoughtbot](https://thoughtbot.com/) | Strategy, design, product management, and development. | [💻](https://thoughtbot.com/jobs#jobs) | [Aug 2024](https://thoughtbot.com/blog/this-week-in-open-source-june-2024) |
 | | [Puzzle ITC](https://www.puzzle.ch/) | Swiss agency | [💻](https://www.puzzle.ch/stellen) | [Aug 2024](https://puzzle.github.io/) |
 | | [Renuo](https://www.renuo.ch/) | Swiss agency | [💻](https://www.renuo.ch/jobs) | [Aug 2024](https://www.renuo.ch/jobs/senior-software-engineer-angular) |
 | | [Flagrant](https://www.beflagrant.com/) | Design, Development, & Product | [💻](https://www.beflagrant.com/blog/flagrant-interview-process) |  |
+| | [Neocoast](https://www.neocoast.com/) | Build & scale reliable products with people you can trust | [💻](https://www.neocoast.com/join-us-form) | [Sep 2024](https://blog.neocoast.com/improving-rails-app-performance) |
 | Community Tools | [Circle.so](https://circle.so/) | The all-in-one community platform for creators and brands. | | |
 | Crypto | [Coinbase](https://coinbase.com/) | Platform for buying, selling and trading crypto. | | |
 | | [CoinGecko](https://coingecko.com/) | Provides a fundamental analysis of the crypto market. | | |
@@ -28,7 +29,8 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [Gitlab](https://gitlab.com/) | The most-comprehensive AI-powered DevSecOps platform. | | |
 | | [Keygen](https://keygen.sh/) | A fair source software licensing and distribution API. | | |
 | Document Storage | [Dropbox](https://www.dropbox.com) | Dropbox delivers tools that help you move your work forward faster, keep it safe, and let you collaborate with ease. | | |
-| Ecommerce | [Shopify](https://shopify.com/) | Making commerce better for everyone. | | |
+| Ecommerce | [Laced](https://www.laced.com/) | Laced is a marketplace for the buying and selling of authentic luxury goods. | | |
+| | [Shopify](https://shopify.com/) | Making commerce better for everyone. | | |
 | | [Whop](https://whop.com) | The destination to start a business, learn new skills, and build a network. | | |
 | Education | [AgendaEdu](https://www.agendaedu.com/) | Simplifies education communication, engagement and payments. | | |
 | | [CodeCrafters](https://codecrafters.io) | Learn to build complex software. | | |
@@ -43,6 +45,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Healthcare | [Doctolib](https://www.doctolib.fr/) | Empowering patients to manage their health and giving healthcare professionals more quality clinical time. | | |
 | | [Pharmaseal](https://www.pharmaseal.co/) | Helping companies reduce risk through smarter management of clinical trials. | | |
 | | [SARD JV](https://www.sardjv.co.uk/) | NHS workforce optimisation. | | |
+| | [wawa fertility](https://www.wawafertility.com/) | Operating System to run and grow your fertility clinic. | [💻](https://www.wawafertility.com/posts/hiring-rails-developer) | [Sep 2024](https://app.otta.com/jobs/KC9SGO71) |
 | HR | [Gusto](https://gusto.com/) | Hire, pay, and manage your team all in one place. | | |
 | | [Factorial](https://factorialhr.com/) | HR Software to Empower Your Team | [💻](https://careers.factorialhr.com/) | | 
 | Logistics | [Flexport](https://flexport.com) | The platform that coordinates global logistics from factory to customer door. | | |
@@ -57,6 +60,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Project Management | [37signals](https://37signals.com) | Creators of Basecamp, HEY, Campfire and Writebook | | |
 | | [GoScope.AI](https://www.goscope.ai/) | Streamline Your Product Vision. | | |
 | | [Queue](https://usequeue.com/) | Run your agency on one platform, processing payments, handling client requests, and receiving feedback. | | |
+| | [OpenProject](https://www.openproject.org/) | OpenProject is the leading free and open source project management software. | [💻](https://www.openproject.org/careers/) | [Sep 2024](https://careers.openproject.org/o/senior-ruby-on-rails-backend-engineer-mfdn) |
 | Construction & Real estate | [Mestamaster](http://mestamaster.com/) | Takt Time project management tools for construction industry (building and renovation) | | |
 | Reading Tools | [StoryGraph](https://www.thestorygraph.com/) | Track your reading and choose your next book based on your mood and favourite topics and themes. | | |
 | Rental Property | [AirBnB](https://airbnb.com/) | Homestays and experiences in various countries and regions. | | |
@@ -65,3 +69,4 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Transport | [Limebike](https://li.me/) | Ride Green. | | |
 | | [Recorrido.cl](https://recorrido.cl/) | Bus ticket marketplace (aggregator) for Latin America. | | |
 | Local Community | [Karrot](https://karrotmarket.com) | A better way to buy and sell, and connect with your community as you do it. | [💻](https://team.daangn.com/jobs/) | [Aug 2024](https://team.daangn.com/jobs/4300797003/) |
+| Workflow Management Software | [Cutover](https://www.cutover.com/) |  Collaborative Automation SaaS platform enables enterprises to simplify complexity, streamline work, and increase visibility. | [💻](https://www.cutover.com/careers) | |
