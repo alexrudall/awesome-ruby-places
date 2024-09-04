@@ -14,6 +14,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [Renuo](https://www.renuo.ch/) | Swiss agency | [💻](https://www.renuo.ch/jobs) | [Aug 2024](https://www.renuo.ch/jobs/senior-software-engineer-angular) |
 | | [Flagrant](https://www.beflagrant.com/) | Design, Development, & Product | [💻](https://www.beflagrant.com/blog/flagrant-interview-process) |  |
 | | [WyeWorks](https://www.wyeworks.com/) | Inspiring people to build great software | [💻](https://www.wyeworks.com/careers) | [Sep 2024](https://www.linkedin.com/company/wyeworks/) |
+| | [Neocoast](https://www.neocoast.com/) | Build & scale reliable products with people you can trust | [💻](https://www.neocoast.com/join-us-form) | [Sep 2024](https://blog.neocoast.com/improving-rails-app-performance) |
 | Community Tools | [Circle.so](https://circle.so/) | The all-in-one community platform for creators and brands. | | |
 | Crypto | [Coinbase](https://coinbase.com/) | Platform for buying, selling and trading crypto. | | |
 | | [CoinGecko](https://coingecko.com/) | Provides a fundamental analysis of the crypto market. | | |
@@ -59,6 +60,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Project Management | [37signals](https://37signals.com) | Creators of Basecamp, HEY, Campfire and Writebook | | |
 | | [GoScope.AI](https://www.goscope.ai/) | Streamline Your Product Vision. | | |
 | | [Queue](https://usequeue.com/) | Run your agency on one platform, processing payments, handling client requests, and receiving feedback. | | |
+| | [OpenProject](https://www.openproject.org/) | OpenProject is the leading free and open source project management software. | [💻](https://www.openproject.org/careers/) | [Sep 2024](https://careers.openproject.org/o/senior-ruby-on-rails-backend-engineer-mfdn) |
 | Construction & Real estate | [Mestamaster](http://mestamaster.com/) | Takt Time project management tools for construction industry (building and renovation) | | |
 | Reading Tools | [StoryGraph](https://www.thestorygraph.com/) | Track your reading and choose your next book based on your mood and favourite topics and themes. | | |
 | Rental Property | [AirBnB](https://airbnb.com/) | Homestays and experiences in various countries and regions. | | |
