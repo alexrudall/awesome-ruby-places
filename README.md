@@ -59,6 +59,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Project Management | [37signals](https://37signals.com) | Creators of Basecamp, HEY, Campfire and Writebook | | |
 | | [GoScope.AI](https://www.goscope.ai/) | Streamline Your Product Vision. | | |
 | | [Queue](https://usequeue.com/) | Run your agency on one platform, processing payments, handling client requests, and receiving feedback. | | |
+| | [OpenProject](https://www.openproject.org/) | OpenProject is the leading free and open source project management software. | [💻](https://www.openproject.org/careers/) | [Sep 2024](https://careers.openproject.org/o/senior-ruby-on-rails-backend-engineer-mfdn) |
 | Construction & Real estate | [Mestamaster](http://mestamaster.com/) | Takt Time project management tools for construction industry (building and renovation) | | |
 | Reading Tools | [StoryGraph](https://www.thestorygraph.com/) | Track your reading and choose your next book based on your mood and favourite topics and themes. | | |
 | Rental Property | [AirBnB](https://airbnb.com/) | Homestays and experiences in various countries and regions. | | |
