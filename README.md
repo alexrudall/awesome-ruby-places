@@ -2,7 +2,7 @@
 
 A list of awesome companies currently using Ruby as one of their main backend languages! 💎❤️
 
-- All have staff and hire at least sometimes
+- All have staff and hire Ruby devs at least sometimes
 - Verification is a link to a job, blog post, tweet etc. that confirms that the company uses Ruby or Rails, and the date the link was last checked.
 
 | Category | Company | Description | Careers | Verified |
