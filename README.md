@@ -13,6 +13,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [Puzzle ITC](https://www.puzzle.ch/) | Swiss agency | [💻](https://www.puzzle.ch/stellen) | [Aug 2024](https://puzzle.github.io/) |
 | | [Renuo](https://www.renuo.ch/) | Swiss agency | [💻](https://www.renuo.ch/jobs) | [Aug 2024](https://www.renuo.ch/jobs/senior-software-engineer-angular) |
 | | [Flagrant](https://www.beflagrant.com/) | Design, Development, & Product | [💻](https://www.beflagrant.com/blog/flagrant-interview-process) |  |
+| | [Neocoast](https://www.neocoast.com/) | Build & scale reliable products with people you can trust | [💻](https://www.neocoast.com/join-us-form) | [Sep 2024](https://blog.neocoast.com/improving-rails-app-performance) |
 | Community Tools | [Circle.so](https://circle.so/) | The all-in-one community platform for creators and brands. | | |
 | Crypto | [Coinbase](https://coinbase.com/) | Platform for buying, selling and trading crypto. | | |
 | | [CoinGecko](https://coingecko.com/) | Provides a fundamental analysis of the crypto market. | | |
