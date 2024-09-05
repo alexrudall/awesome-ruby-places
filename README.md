@@ -36,6 +36,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [Shopify](https://shopify.com/) | Making commerce better for everyone. | | |
 | | [Whop](https://whop.com) | The destination to start a business, learn new skills, and build a network. | | |
 | Education | [AgendaEdu](https://www.agendaedu.com/) | Simplifies education communication, engagement and payments. | | |
+| | [Brainscape](https://www.brainscape.com/) |  Rise to your challenge. Flashcards for serious learners. | [💻](https://www.brainscape.com/careers) | |
 | | [CodeCrafters](https://codecrafters.io) | Learn to build complex software. | | |
 | | [CreateAcademy](https://www.createacademy.com/) | Creative learning platform. Expert instruction from designers, makers, growers and chefs. | | |
 | | [InkWire](https://www.inkwire.co/) | Inkwire makes it easier to design and showcase engaging, rigorous learning. | | |
