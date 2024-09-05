@@ -46,6 +46,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | FAANG | [Apple](https://apple.com) | Mac, iPhone, etc. | [💻](https://apple.com/careers) | [Aug 2024](https://www.adzuna.co.uk/jobs/details/4429845442) |
 | Geocoding | [OpenCage](https://opencagedata.com/) | Convert coordinates to and from places. | | |
 | Healthcare | [Doctolib](https://www.doctolib.fr/) | Empowering patients to manage their health and giving healthcare professionals more quality clinical time. | | |
+| | [Doximity](https://www.doximity.com/) | The professional medical network for physicians, bringing tech to healthcare. | [💻](https://workat.doximity.com/) | [May 2024](https://technology.doximity.com/articles/tropical-rb-conference-and-rails-girls-sao-paulo) |
 | | [Pharmaseal](https://www.pharmaseal.co/) | Helping companies reduce risk through smarter management of clinical trials. | | |
 | | [SARD JV](https://www.sardjv.co.uk/) | NHS workforce optimisation. | | |
 | | [wawa fertility](https://www.wawafertility.com/) | Operating System to run and grow your fertility clinic. | [💻](https://www.wawafertility.com/posts/hiring-rails-developer) | [Sep 2024](https://app.otta.com/jobs/KC9SGO71) |
