@@ -78,3 +78,4 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [Recorrido.cl](https://recorrido.cl/) | Bus ticket marketplace (aggregator) for Latin America. | | |
 | Local Community | [Karrot](https://karrotmarket.com) | A better way to buy and sell, and connect with your community as you do it. | [💻](https://team.daangn.com/jobs/) | [2024/08](https://team.daangn.com/jobs/4300797003/) |
 | Workflow Management Software | [Cutover](https://www.cutover.com/) |  Collaborative Automation SaaS platform enables enterprises to simplify complexity, streamline work, and increase visibility. | [💻](https://www.cutover.com/careers) | |
+| FinOps | [Vantage](https://vantage.sh) | Cloud Cost Observability and Optimization | [💻](https://www.vantage.sh/careers/#current_openings) | [2024/09](https://www.vantage.sh/careers/#current_openings)
