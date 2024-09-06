@@ -56,6 +56,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [Factorial](https://factorialhr.com/) | HR Software to Empower Your Team | [💻](https://careers.factorialhr.com/) | | 
 | Logistics | [Flexport](https://flexport.com) | The platform that coordinates global logistics from factory to customer door. | | |
 | Maps | [Openstreetmap](https://www.openstreetmap.org) | The website and API is mostly run on rails. The project is [open source](https://github.com/openstreetmap/openstreetmap-website). | | |
+| Miscellaneous | [SearchApi](https://www.searchapi.io/) | Real-time API for scraping structured data from search engines. | [💻](https://www.searchapi.io/careers) | |
 | Networking | [Cisco Meraki](https://meraki.cisco.com/) | The leader in cloud controlled Wi-Fi, routing, and security. | | |
 | | [Swisscom](https://www.swisscom.ch) | A major Swiss ISP. Using ruby for internal network management related software. | | |
 | Payments | [Stripe](https://stripe.com) | Financial infrastructure to grow your revenue. | | |
