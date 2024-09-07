@@ -55,6 +55,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [wawa fertility](https://www.wawafertility.com/) | Operating System to run and grow your fertility clinic. | [💻](https://www.wawafertility.com/posts/hiring-rails-developer) | [2024/09](https://app.otta.com/jobs/KC9SGO71) |
 | HR | [Gusto](https://gusto.com/) | Hire, pay, and manage your team all in one place. | | |
 | | [Factorial](https://factorialhr.com/) | HR Software to Empower Your Team | [💻](https://careers.factorialhr.com/) | | 
+| | [Teamtailor](https://teamtailor.com/) | The recruitment software your candidates & team will love, based in Sweden with developers across Europe. | [💻](https://career.teamtailor.com/departments/product) | [2024/09](https://career.teamtailor.com/departments/product) | 
 | Logistics | [Flexport](https://flexport.com) | The platform that coordinates global logistics from factory to customer door. | | |
 | Maps | [Openstreetmap](https://www.openstreetmap.org) | The website and API is mostly run on rails. The project is [open source](https://github.com/openstreetmap/openstreetmap-website). | | |
 | Miscellaneous | [SearchApi](https://www.searchapi.io/) | Real-time API for scraping structured data from search engines. | [💻](https://www.searchapi.io/careers) | |
