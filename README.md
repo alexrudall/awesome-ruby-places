@@ -30,6 +30,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [Doordash](https://doordash.com/) | Delivery & takeout from the best local restaurants. | [💻](https://careers.doordash.com/) | |
 | | [Instacart](https://instacart.com) | Grocery Delivery or Pickup from Local Stores Near You. | [💻](https://careers.instacart.com/) | |
 | | [Mindful Chef](https://www.mindfulchef.com/) | Healthy eating, made easy! | [💻](https://mindfulchef.com/careers) | |
+| | [DeliveryHero](https://www.deliveryhero.com/) | Global Company for Delivery & takeout from the best local restaurants. | [💻](https://careers.deliveryhero.com/deliveryhero-jobs) | |
 | Dev Tools | [Github](https://github.com/) | The world's leading AI-powered developer platform. | [💻](https://github.com/about/careers) | |
 | | [Gitlab](https://gitlab.com/) | The most-comprehensive AI-powered DevSecOps platform. | [💻](https://about.gitlab.com/jobs/) | |
 | | [Keygen](https://keygen.sh/) | A fair source software licensing and distribution API. | [💻](https://keygen.sh/jobs/) | |
@@ -58,6 +59,9 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [Teamtailor](https://teamtailor.com/) | The recruitment software your candidates & team will love, based in Sweden with developers across Europe. | [💻](https://career.teamtailor.com/departments/product) | [2024/09](https://career.teamtailor.com/departments/product) | 
 | | [Wobee](https://www.wobee.fr/) | The HR platform to manage your teams' key moments, from onboarding to offboarding. | [💻](https://www.welcometothejungle.com/fr/companies/wobee/jobs) | [2024/09](https://www.welcometothejungle.com/fr/companies/wobee/tech) |
 | Logistics | [Flexport](https://flexport.com) | The platform that coordinates global logistics from factory to customer door. | [💻](https://www.flexport.com/careers/) | |
+| | [BARQ](https://www.barqapp.com/) | Last-Mile & Bullet Delivery Service | [💻](https://www.linkedin.com/company/barq-app-sa/jobs/) | |
+| | [SIRDAB](https://www.sirdab.co/en) | Warehouse Storage on Demand | [💻](https://www.linkedin.com/company/usesirdab/jobs/) | |
+| | [Manifest](https://www.manifest.st/) | Last-Mile Technology & Warehouse Management System SaaS | [💻](https://www.linkedin.com/company/manifest-saas/jobs/) | |
 | Maps | [Openstreetmap](https://www.openstreetmap.org) | The website and API is mostly run on rails. The project is [open source](https://github.com/openstreetmap/openstreetmap-website). | | |
 | Miscellaneous | [SearchApi](https://www.searchapi.io/) | Real-time API for scraping structured data from search engines. | [💻](https://www.searchapi.io/careers) | |
 | Networking | [Cisco Meraki](https://meraki.cisco.com/) | The leader in cloud controlled Wi-Fi, routing, and security. | [💻](https://meraki.cisco.com/jobs/) | |
