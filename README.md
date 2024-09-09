@@ -8,6 +8,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Category | Company | Description | Careers | Verified |
 |----------|---------|-------------|---------|-------|
 | Accelerators | [Y Combinator](https://ycombinator.com) | Technology startup accelerator and venture capital firm. | [💻](https://www.ycombinator.com/careers) | [2024/08](https://www.ycombinator.com/careers?ashby_jid=bbf8f36d-60bf-4168-b2b8-fac91bc4534c) |
+| Accounting / FinTech | [Wrapbook](https://wrapbook.com/) | Accounting software suite for the Film, TV, and Commercial Production industry. | [💻](https://jobs.ashbyhq.com/wrapbook) | [2024/09](https://jobs.ashbyhq.com/wrapbook/4a27bab9-f10c-4250-96a0-835fa1f1541d) |
 | Agencies | [Eagerworks](https://eagerworks.com/) | Development, design and AI needs. | [💻](https://eagerworks.com/careers#open-positions) | [2024/08](https://eagerworks.com/careers/sr-ror-developer) |
 | | [thoughtbot](https://thoughtbot.com/) | Strategy, design, product management, and development. | [💻](https://thoughtbot.com/jobs#jobs) | [2024/08](https://thoughtbot.com/blog/this-week-in-open-source-june-2024) |
 | | [Puzzle ITC](https://www.puzzle.ch/) | Swiss agency | [💻](https://www.puzzle.ch/stellen) | [2024/08](https://puzzle.github.io/) |
