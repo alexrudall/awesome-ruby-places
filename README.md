@@ -80,6 +80,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Rental Property | [AirBnB](https://airbnb.com/) | Homestays and experiences in various countries and regions. | [💻](https://careers.airbnb.com/) | |
 | Streaming Services | [Rakuten TV](https://www.rakuten.tv/) | Streaming platform, available in 42 countries across Europe. | [💻](https://rakuten.wd1.myworkdayjobs.com/RakutenTV/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | [2024/08](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenTV/job/Barcelona-Spain/Backend-Ruby-Engineer_1022989?clientRequestID=39d41571bcd34c8ba4d5ceb6201b2296) |
 | Social Enterprise | [Beam](https://beam.org) | Supporting underserved people with human-centred technology. | [💻](https://beam.org/careers) | |
+| SUSE | [SUSE](https://suse.com) | We believe in building a future for secure, open source innovation. | [💻](https://jobs.suse.com/us/en/search-results?m=3&keywords=ruby) | |
 | | [Olio](https://olioapp.com/en/) | The app for finding what you need and sharing what you don’t with local people. | [💻](https://olioapp.com/en/careers/) | [2024/04](https://tech.olioex.com/ruby/2024/04/16/introducing-janus.html) |
 | Transport | [Limebike](https://li.me/) | Ride Green. | [💻](https://www.li.me/about/careers) | |
 | | [Recorrido.cl](https://recorrido.cl/) | Bus ticket marketplace (aggregator) for Latin America. | | |
