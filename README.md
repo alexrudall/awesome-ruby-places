@@ -17,6 +17,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [Neocoast](https://www.neocoast.com/) | Build & scale reliable products with people you can trust | [💻](https://www.neocoast.com/join-us-form) | [2024/09](https://blog.neocoast.com/improving-rails-app-performance) |
 | | [boosting.tech](https://boosting.tech/) | Boosting bussiness through technology | | [2024/09](https://boosting.tech/careers) |
 | | [Switch Dreams](https://switchdreams.com.br/) | Your Brazilian partner for creative design and software development | | [2024/09](https://github.com/SwitchDreams) |
+| | [SINAPTIA](https://sinaptia.dev) | Development, Staff augmentation, Ruby/Rails Upgrades | | [2024/09](https://www.linkedin.com/company/sinaptia/) |
 | AI | [Sublayer](https://sublayer.com) | A model-agnostic AI Agent framework for Ruby. | | [2024/09](https://github.com/sublayerapp/sublayer) |
 | Automotive | [Carwow](https://carwow.co.uk) | Car changing is a big deal. | [💻](https://www.carwow.co.uk/jobs#open-roles) | [2024/09](https://www.carwow.co.uk/jobs#jobs-widget) |
 | Community Tools | [Circle.so](https://circle.so/) | The all-in-one community platform for creators and brands. | [💻](https://circle.so/careers) | |
