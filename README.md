@@ -56,6 +56,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [Pharmaseal](https://www.pharmaseal.co/) | Helping companies reduce risk through smarter management of clinical trials. | | |
 | | [SARD JV](https://www.sardjv.co.uk/) | NHS workforce optimisation. | [💻](https://sardjv.co.uk/About/Careers/) | |
 | | [wawa fertility](https://www.wawafertility.com/) | Operating System to run and grow your fertility clinic. | [💻](https://www.wawafertility.com/posts/hiring-rails-developer) | [2024/09](https://app.otta.com/jobs/KC9SGO71) |
+| Home Services | [Parafuzo](https://parafuzo.com/) | Intermediation of cleaning and furniture assembly services | [💻](https://www.linkedin.com/company/parafuzo-com/mycompany/) | |
 | HR | [Gusto](https://gusto.com/) | Hire, pay, and manage your team all in one place. | [💻](https://gusto.com/about/careers) | |
 | | [Factorial](https://factorialhr.com/) | HR Software to Empower Your Team | [💻](https://careers.factorialhr.com/) | | 
 | | [TalentoHQ](https://talentohq.com/) | Talent management and human resources software. | | |
