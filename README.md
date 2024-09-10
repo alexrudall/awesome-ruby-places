@@ -62,6 +62,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [TalentoHQ](https://talentohq.com/) | Talent management and human resources software. | | |
 | | [Teamtailor](https://teamtailor.com/) | The recruitment software your candidates & team will love, based in Sweden with developers across Europe. | [💻](https://career.teamtailor.com/departments/product) | [2024/09](https://career.teamtailor.com/departments/product) | 
 | | [Wobee](https://www.wobee.fr/) | The HR platform to manage your teams' key moments, from onboarding to offboarding. | [💻](https://www.welcometothejungle.com/fr/companies/wobee/jobs) | [2024/09](https://www.welcometothejungle.com/fr/companies/wobee/tech) |
+| | [Uplink](https://uplink.tech/) | The community for IT freelancers in the DACH region | [💻](https://uplink.tech/careers) | |
 | Logistics | [Flexport](https://flexport.com) | The platform that coordinates global logistics from factory to customer door. | [💻](https://www.flexport.com/careers/) | |
 | | [BARQ](https://www.barqapp.com/) | Last-Mile & Bullet Delivery Service | [💻](https://www.linkedin.com/company/barq-app-sa/jobs/) | |
 | | [SIRDAB](https://www.sirdab.co/en) | Warehouse Storage on Demand | [💻](https://www.linkedin.com/company/usesirdab/jobs/) | |
