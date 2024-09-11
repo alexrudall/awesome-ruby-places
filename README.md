@@ -59,9 +59,9 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [wawa fertility](https://www.wawafertility.com/) | Operating System to run and grow your fertility clinic. | [💻](https://www.wawafertility.com/posts/hiring-rails-developer) | [2024/09](https://app.otta.com/jobs/KC9SGO71) |
 | Home Services | [Parafuzo](https://parafuzo.com/) | Intermediation of cleaning and furniture assembly services | [💻](https://www.linkedin.com/company/parafuzo-com/mycompany/) | |
 | HR | [Gusto](https://gusto.com/) | Hire, pay, and manage your team all in one place. | [💻](https://gusto.com/about/careers) | |
-| | [Factorial](https://factorialhr.com/) | HR Software to Empower Your Team | [💻](https://careers.factorialhr.com/) | | 
+| | [Factorial](https://factorialhr.com/) | HR Software to Empower Your Team | [💻](https://careers.factorialhr.com/) | |
 | | [TalentoHQ](https://talentohq.com/) | Talent management and human resources software. | | |
-| | [Teamtailor](https://teamtailor.com/) | The recruitment software your candidates & team will love, based in Sweden with developers across Europe. | [💻](https://career.teamtailor.com/departments/product) | [2024/09](https://career.teamtailor.com/departments/product) | 
+| | [Teamtailor](https://teamtailor.com/) | The recruitment software your candidates & team will love, based in Sweden with developers across Europe. | [💻](https://career.teamtailor.com/departments/product) | [2024/09](https://career.teamtailor.com/departments/product) |
 | | [Wobee](https://www.wobee.fr/) | The HR platform to manage your teams' key moments, from onboarding to offboarding. | [💻](https://www.welcometothejungle.com/fr/companies/wobee/jobs) | [2024/09](https://www.welcometothejungle.com/fr/companies/wobee/tech) |
 | | [Uplink](https://uplink.tech/) | The community for IT freelancers in the DACH region | [💻](https://uplink.tech/careers) | |
 | Logistics | [Flexport](https://flexport.com) | The platform that coordinates global logistics from factory to customer door. | [💻](https://www.flexport.com/careers/) | |
@@ -77,6 +77,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [Maybe](https://maybe.co/) | Open-source OS for your personal finances. | | |
 | Private Members' Clubs | [Soho House](https://sohohouse.com/) | A club for creatives. | [💻](https://careers.sohohouse.com/) | |
 | Procurement | [Coupa](https://coupa.com) | Enterprise procurement and business spend management. | [💻](https://careers.coupa.com/career-openings) | |
+| Product Management | [Productboard](https://www.productboard.com/) | Customer-centric product management platform. | [💻](https://www.productboard.com/careers/open-positions/) | |
 | Project Management | [37signals](https://37signals.com) | Creators of Basecamp, HEY, Campfire and Writebook | [💻](https://37signals.com/jobs) | |
 | | [GoScope.AI](https://www.goscope.ai/) | Streamline Your Product Vision. | | |
 | | [Queue](https://usequeue.com/) | Run your agency on one platform, processing payments, handling client requests, and receiving feedback. | | |
