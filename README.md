@@ -78,6 +78,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Private Members' Clubs | [Soho House](https://sohohouse.com/) | A club for creatives. | [💻](https://careers.sohohouse.com/) | |
 | Procurement | [Coupa](https://coupa.com) | Enterprise procurement and business spend management. | [💻](https://careers.coupa.com/career-openings) | |
 | Product Management | [Productboard](https://www.productboard.com/) | Customer-centric product management platform. | [💻](https://www.productboard.com/careers/open-positions/) | |
+| | [Salsify](https://www.salsify.com/) | Product Experience Management (PXM) SaaS. Helps brands and retailers manage, optimize, and distribute product information across various digital channels. | [💻](https://www.salsify.com/careers) | |
 | Project Management | [37signals](https://37signals.com) | Creators of Basecamp, HEY, Campfire and Writebook | [💻](https://37signals.com/jobs) | |
 | | [GoScope.AI](https://www.goscope.ai/) | Streamline Your Product Vision. | | |
 | | [Queue](https://usequeue.com/) | Run your agency on one platform, processing payments, handling client requests, and receiving feedback. | | |
