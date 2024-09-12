@@ -47,6 +47,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [CreateAcademy](https://www.createacademy.com/) | Creative learning platform. Expert instruction from designers, makers, growers and chefs. | | |
 | | [InkWire](https://www.inkwire.co/) | Inkwire makes it easier to design and showcase engaging, rigorous learning. | | |
 | | [Learnetto](https://learnetto.com) | Learnetto is a place to learn Ruby and Rails with courses and tutorials. | | |
+| | [Le Wagon](https://www.lewagon.com) | Le Wagon is ranked as the world's best coding bootcamp | [💻](https://www.welcometothejungle.com/fr/companies/le-wagon/tech) | |
 | | [MindJoy](https://www.mindjoy.com/) | Learn and create STEM tutors and simulations with AI for curious classrooms! | | |
 | | [Zen Educate](https://zeneducate.com/) | We'll find you your ideal classroom roles, whether you're a Teacher or Paraprofessional. | [💻](https://jobs.lever.co/zeneducate) | |
 | | [Profe.Social](https://profe.social/) | Marketplace and social network for spanish speaking K12 Teachers. | | |
