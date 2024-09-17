@@ -1,5 +1,7 @@
 # Awesome Ruby Places
 
+Check out [https://usingrails.com/](https://usingrails.com/) -- a lot more companies there!! Also open source.
+
 A list of awesome companies currently using Ruby as one of their main backend languages! 💎❤️
 
 - All have staff and hire Ruby devs at least sometimes
