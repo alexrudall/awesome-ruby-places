@@ -98,6 +98,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Transport | [Limebike](https://li.me/) | Ride Green. | [💻](https://www.li.me/about/careers) | |
 | | [Recorrido.cl](https://recorrido.cl/) | Bus ticket marketplace (aggregator) for Latin America. | | |
 | Local Community | [Karrot](https://karrotmarket.com) | A better way to buy and sell, and connect with your community as you do it. | [💻](https://team.daangn.com/jobs/) | [2024/08](https://team.daangn.com/jobs/4300797003/) |
+| Web Application Firewall | [Wafris](https://wafris.org) | Protect your website from attacks and bots. | [💻](https://wafris.org/blog/railsworld-2023-recap) ||
 | Workflow Management Software | [Cutover](https://www.cutover.com/) |  Collaborative Automation SaaS platform enables enterprises to simplify complexity, streamline work, and increase visibility. | [💻](https://www.cutover.com/careers) | |
 | HackerOne | [HackerOne](https://www.hackerone.com/) |  HackerOne is a company specializing in cybersecurity, specifically attack resistance management, which blends the security expertise of ethical hackers with asset discovery, continuous assessment, and process enhancement to find and close gaps in the digital attack surface. | [💻](https://jobs.ashbyhq.com/hackerone) | |
 | FinOps | [Vantage](https://vantage.sh) | Cloud Cost Observability and Optimization | [💻](https://www.vantage.sh/careers/#current_openings) | [2024/09](https://www.vantage.sh/careers/#current_openings)
