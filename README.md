@@ -55,6 +55,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [Zen Educate](https://zeneducate.com/) | We'll find you your ideal classroom roles, whether you're a Teacher or Paraprofessional. | [💻](https://jobs.lever.co/zeneducate) | |
 | | [Profe.Social](https://profe.social/) | Marketplace and social network for spanish speaking K12 Teachers. | | |
 | FAANG | [Apple](https://apple.com) | Mac, iPhone, etc. | [💻](https://apple.com/careers) | [2024/08](https://www.adzuna.co.uk/jobs/details/4429845442) |
+| Farming | [eAgronom](https://eagronom.com) | Helps farmers generate additional revenue, improve soil quality and access better financing. | [💻](https://www.eagronom.com/careers) | |
 | Geocoding | [OpenCage](https://opencagedata.com/) | Convert coordinates to and from places. | [💻](https://opencagedata.com/jobs) | |
 | Healthcare | [Doctolib](https://www.doctolib.fr/) | Empowering patients to manage their health and giving healthcare professionals more quality clinical time. | [💻](https://careers.doctolib.com/) | |
 | | [Doximity](https://www.doximity.com/) | The professional medical network for physicians, bringing tech to healthcare. | [💻](https://workat.doximity.com/positions/) | [2024/05](https://technology.doximity.com/articles/tropical-rb-conference-and-rails-girls-sao-paulo) |
