@@ -81,6 +81,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | Networking | [Cisco Meraki](https://meraki.cisco.com/) | The leader in cloud controlled Wi-Fi, routing, and security. | [💻](https://meraki.cisco.com/jobs/) | |
 | | [Swisscom](https://www.swisscom.ch) | A major Swiss ISP. Using ruby for internal network management related software. | [💻](https://www.swisscom.ch/en/about/jobs.html) | |
 | Payments | [Stripe](https://stripe.com) | Financial infrastructure to grow your revenue. | [💻](https://stripe.com/jobs) | |
+| | [Paypal](https://paypal.com) | Pay, send and pool easily. | [💻](https://www.ziprecruiter.com/c/PayPal/Job/Staff-Software-Engineer-Ruby-on-Rails/-in-Chicago,IL?jid=711998541c318e17) | |
 | Personal Finance | [Cleo](https://web.meetcleo.com/) | The AI assistant that's helped 6 million people avoid their overdraft, build credit, and budget better. | [💻](https://web.meetcleo.com/careers) | |
 | | [Maybe](https://maybe.co/) | Open-source OS for your personal finances. | | |
 | Private Members' Clubs | [Soho House](https://sohohouse.com/) | A club for creatives. | [💻](https://careers.sohohouse.com/) | |
