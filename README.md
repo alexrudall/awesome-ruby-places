@@ -42,6 +42,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [Keygen](https://keygen.sh/) | A fair source software licensing and distribution API. | [💻](https://keygen.sh/jobs/) | |
 | Document Storage | [Dropbox](https://www.dropbox.com) | Dropbox delivers tools that help you move your work forward faster, keep it safe, and let you collaborate with ease. | [💻](https://www.dropbox.com/jobs) | |
 | Ecommerce | [Laced](https://www.laced.com/) | Laced is a marketplace for the buying and selling of authentic luxury goods. | | |
+| | [OneCart](https://www.getonecart.com/) | Omni-Channel Ecommerce Management System for Merchants. | [💻](https://www.getonecart.com) | |
 | | [Shopify](https://shopify.com/) | Making commerce better for everyone. | [💻](https://www.shopify.com/careers) | |
 | | [Whop](https://whop.com) | The destination to start a business, learn new skills, and build a network. | [💻](https://careers.whop.com/) | |
 | | [HomeCineSolutions](https://www.homecinesolutions.fr/) | Hi-fi and home cinema web shop using Ruby/Rails since 2001 . | | |
