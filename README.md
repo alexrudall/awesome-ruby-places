@@ -45,7 +45,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [OneCart](https://www.getonecart.com/) | Omni-Channel Ecommerce Management System for Merchants. | [💻](https://www.getonecart.com) | |
 | | [Shopify](https://shopify.com/) | Making commerce better for everyone. | [💻](https://www.shopify.com/careers) | |
 | | [Whop](https://whop.com) | The destination to start a business, learn new skills, and build a network. | [💻](https://careers.whop.com/) | |
-| | [HomeCineSolutions](https://www.homecinesolutions.fr/) | Hi-fi and home cinema web shop using Ruby/Rails since 2001 . | | |
+| | [HomeCineSolutions](https://www.homecinesolutions.fr/) | Hi-fi and home cinema web shop using Ruby on Rails since 2005. | | |
 | Education | [AgendaEdu](https://www.agendaedu.com/) | Simplifies education communication, engagement and payments. | [💻](https://vagasagendalovers.gupy.io/) | |
 | | [Brainscape](https://www.brainscape.com/) |  Rise to your challenge. Flashcards for serious learners. | [💻](https://brainscape.breezy.hr/) | |
 | | [CodeCrafters](https://codecrafters.io) | Learn to build complex software. | [💻](https://www.ycombinator.com/companies/codecrafters/jobs?r=3bC) | |
