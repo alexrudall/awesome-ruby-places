@@ -7,6 +7,14 @@ A list of awesome companies currently using Ruby as one of their main backend la
 - All have staff and hire Ruby devs at least sometimes
 - Verification is a link to a job, blog post, tweet etc. that confirms that the company uses Ruby or Rails, and the date the link was last checked.
 
+**Sponsors**
+
+[<img src="https://github.com/user-attachments/assets/1efcf10d-0063-4e11-9a65-38c453f6bb54" alt="The writing.io logo, blue with a smiley face for the dot" width="200" height="200">](https://writing.io)
+
+_[writing.io](https://writing.io) - The #1 platform for AI Education and Learning._
+
+[🎮 Ruby AI Builders Discord](https://discord.gg/k4Uc224xVD) | [🐦 X](https://x.com/alexrudall) | [🧠 Anthropic Gem](https://github.com/alexrudall/anthropic) | [🚂 Midjourney Gem](https://github.com/alexrudall/midjourney) |  [♥️ Thanks to all sponsors!](https://github.com/sponsors/alexrudall)
+
 | Category | Company | Description | Careers | Verified |
 |----------|---------|-------------|---------|-------|
 | Accelerators | [Y Combinator](https://ycombinator.com) | Technology startup accelerator and venture capital firm. | [💻](https://www.ycombinator.com/careers) | [2024/08](https://www.ycombinator.com/careers?ashby_jid=bbf8f36d-60bf-4168-b2b8-fac91bc4534c) |
@@ -110,4 +118,4 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | FinOps | [Vantage](https://vantage.sh) | Cloud Cost Observability and Optimization | [💻](https://www.vantage.sh/careers/#current_openings) | [2024/09](https://www.vantage.sh/careers/#current_openings)
 | Ecommerce | [Super Good](https://supergood.software) | Custom ecommerce and [Solidus](https://solidus.io) consulting | [💻](https://supergood.software/careers) | [2024/11](https://supergood.software/services)
 | BTB personal finance | [Abbove](https://www.abbove.com/en) | Collaborative wealth planning platform | [💻](https://www.abbove.com/jobs) | [2025/4](https://www.abbove.com/jobs)
-| Compliance software | [Iubenda](https://iubenda.com/jobs) | Privacy and compliance solutions for websites, apps, and businesses. | [💻](https://careers.iubenda.com/jobs) | 
+| Compliance software | [Iubenda](https://iubenda.com/jobs) | Privacy and compliance solutions for websites, apps, and businesses. | [💻](https://careers.iubenda.com/jobs) |
