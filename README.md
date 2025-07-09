@@ -9,7 +9,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 **Sponsors**
 
-[<img src="" alt="The writing.io logo, blue with a smiley face for the dot" width="200" height="200">](https://writing.io)
+[<img src="https://github.com/user-attachments/assets/1efcf10d-0063-4e11-9a65-38c453f6bb54" alt="The writing.io logo, blue with a smiley face for the dot" width="200" height="200">](https://writing.io)
 
 _[writing.io](https://writing.io) - The #1 platform for AI Education and Learning._
 
