@@ -105,6 +105,7 @@ _[writing.io](https://writing.io) - The #1 platform for AI Education and Learnin
 | Construction & Real estate | [Mestamaster](http://mestamaster.com/) | Takt Time project management tools for construction industry (building and renovation) | | |
 | Reading Tools | [StoryGraph](https://www.thestorygraph.com/) | Track your reading and choose your next book based on your mood and favourite topics and themes. | | |
 | Rental Property | [AirBnB](https://airbnb.com/) | Homestays and experiences in various countries and regions. | [💻](https://careers.airbnb.com/) | |
+| Scraping | [SerpApi - Search API](https://serpapi.com/) | Scrape search engine results with a simple API. | [💻](https://serpapi.com/careers) | |
 | Streaming Services | [Rakuten TV](https://www.rakuten.tv/) | Streaming platform, available in 42 countries across Europe. | [💻](https://rakuten.wd1.myworkdayjobs.com/RakutenTV/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | [2024/08](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenTV/job/Barcelona-Spain/Backend-Ruby-Engineer_1022989?clientRequestID=39d41571bcd34c8ba4d5ceb6201b2296) |
 | Social Enterprise | [Beam](https://beam.org) | Supporting underserved people with human-centred technology. | [💻](https://beam.org/careers) | |
 | SUSE | [SUSE](https://suse.com) | We believe in building a future for secure, open source innovation. | [💻](https://jobs.suse.com/us/en/search-results?m=3&keywords=ruby) | |
